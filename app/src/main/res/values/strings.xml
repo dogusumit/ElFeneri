@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="flashyok">Flash not found!\nDon\'t worry, we open the white screen</string>
+    <string name="hosgeldin">Don\'t Stay in The Dark\nOpen Flashlight</string>
+    <string name="hata">Something went wrong! Please report this to me?\n</string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/1762589347</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="beyaz">White Screen</string>
+    <string name="chk1">Blink Mode</string>
+    <string name="str1">" sec"</string>
+</resources>

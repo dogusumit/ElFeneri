@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">El Feneri</string>
+    <string name="flashyok">Cihazında Flaş Bulunumadı!\nMerak Etme Beyaz Ekran Açarız</string>
+    <string name="hosgeldin">Karanlıkta Kalma\nAç Flaşı</string>
+    <string name="hata">bir hata oluştu, lütfen bildirir misin?\n</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/1762589347</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="beyaz">Beyaz Ekran</string>
+    <string name="chk1">Yanıp Sönsün</string>
+    <string name="str1">" sn"</string>
+</resources>
